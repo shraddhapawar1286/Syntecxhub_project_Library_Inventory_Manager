@@ -1,4 +1,4 @@
-![library](https://github.com/user-attachments/assets/a9590dfe-8744-47db-9da3-31ac54f9c70d)# Syntecxhub_project_Library_Inventory_Manager
+# Syntecxhub_project_Library_Inventory_Manager
 This Python project is used to manage library books. It allows adding, searching, issuing, and returning books. The program uses Book and Library classes (OOP concept). Book data is stored in a JSON file for permanent saving. It also generates simple reports like total and issued books.
 The Library Book Inventory Manager is a Python-based application used to manage library books efficiently. This project allows users to add new books, search books by title or author, and perform issue and return operations.
 The program uses Object-Oriented Programming (OOP) concepts by creating two main classes:
@@ -14,6 +14,7 @@ Basic OOP concepts (classes, objects, methods)
 File handling (JSON)
 Data structures (lists and dictionaries)
 Searching and reporting features
+![Uploading library.jpeg…]()
 D:\Shraddha\Library Management System.py
 <img width="871" height="688" alt="library1" src="https://github.com/user-attachments/assets/e59fd03d-997b-478b-ab37-96513366fc0e" />
 <img width="1032" height="688" alt="library2" src="https://github.com/user-attachments/assets/0a746b89-8fb3-4522-95b3-ec923fcbc816" />
